@@ -1,0 +1,26 @@
+{
+  "name": "geomjs",
+  "version": "1.0.0",
+  "description": "Contains geometry utilities and computations.",
+  "main": "dst/geom.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samuelpetersson/geomjs.git"
+  },
+  "keywords": [
+    "Geometry"
+  ],
+  "author": "Samuel Petersson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samuelpetersson/geomjs/issues"
+  },
+  "homepage": "https://github.com/samuelpetersson/geomjs",
+}

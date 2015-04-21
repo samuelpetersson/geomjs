@@ -1,0 +1,18 @@
+{
+  "name": "geomjs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/samuelpetersson/geomjs",
+  "authors": [
+    "Samuel <sam@f09.org>"
+  ],
+  "description": "Geometry utilities and computations",
+  "main": "dst/geom.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
